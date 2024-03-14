@@ -1,0 +1,4 @@
+wikipedia-api
+sentence-transformers
+faiss-cpu
+Flask
